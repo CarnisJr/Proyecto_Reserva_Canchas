@@ -1,4 +1,4 @@
-package Logic;
+package Logic.GestionSistema;
 
 public class Nodo {
 

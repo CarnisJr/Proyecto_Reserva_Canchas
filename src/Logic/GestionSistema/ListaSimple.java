@@ -1,4 +1,4 @@
-package Logic;
+package Logic.GestionSistema;
 
 import javax.swing.*;
 

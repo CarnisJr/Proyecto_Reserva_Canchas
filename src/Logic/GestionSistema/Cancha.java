@@ -1,6 +1,6 @@
-package Logic;
+package Logic.GestionSistema;
 
-public class Cancha extends Campus{
+public class Cancha extends Campus {
 
     private int codigo;
 
