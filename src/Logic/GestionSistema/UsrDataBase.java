@@ -14,9 +14,9 @@ public class UsrDataBase {
 
     public UsrDataBase() {
 
-        Estudiante est1 = new Estudiante("Pepe", "Pepe1");
-        Estudiante est2 = new Estudiante("Carlos", "Carlos1");
-        Estudiante est3 = new Estudiante("Juan", "Juan1");
+        Estudiante est1 = new Estudiante(1, "Pepe", "Pepe1");
+        Estudiante est2 = new Estudiante(2,"Carlos", "Carlos1");
+        Estudiante est3 = new Estudiante(3, "Juan", "Juan1");
 
         usrsEstudiantes.add(est1);
         usrsEstudiantes.add(est2);

@@ -2,6 +2,7 @@ package GUI;
 
 import Logic.GestionSistema.UsrDataBase;
 import Logic.Usuario.Admin;
+import Logic.Usuario.Estudiante;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
