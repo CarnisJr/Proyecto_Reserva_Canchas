@@ -1,10 +1,10 @@
 package GUI;
 
-import Logic.GestionSistema.UsrDataBase;
-import Logic.Usuario.Admin;
-import Logic.Usuario.Estudiante;
+import Logic.GestionSistema.*;
+import Logic.Usuario.*;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
